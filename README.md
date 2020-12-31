@@ -1,2 +1,4 @@
 # random-quotes-generator
-Created with CodeSandbox
+build using ReactJS
+
+Used random-quotes API to generate quotes.
